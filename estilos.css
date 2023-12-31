@@ -1,0 +1,27 @@
+.menu{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: #163020;
+    padding: 5px;
+    margin: 5px;
+ }
+
+ .menu li{
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+    margin: 10px;
+    
+ }
+ .menu li img{
+    border-radius: 10px;
+ }
+
+ #productos img{
+    width: 120px;
+ }
+
+ footer{
+    background-color: blue;
+ }
